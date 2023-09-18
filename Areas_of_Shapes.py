@@ -8,7 +8,7 @@ rect_area = rect_leng * rect_wid
 print (f"The area of the rectangle is: {str(rect_area)}")
 
 circle = float(input('What is the radius of the circle? '))
-circle_area = (circle ** 2) * 3.14
+circle_area = (circle ** 2) * 3.14  
 print (f"The area of the circle is: {str(circle_area)}")
 
 # Stretch 1: Using the math library
